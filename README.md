@@ -1,4 +1,4 @@
-# Hi, I'm Lakoniko 👋
+# Hi, I'm Lymperis 👋
 
 ### Systems Engineer · DevOps Engineer · Security Operations
 
