@@ -24,6 +24,12 @@
 - **Serverless systems:** Exploring event-driven workloads and deployment models.
 - **Operational improvement:** Making deployments, monitoring, and day-to-day maintenance easier.
 
+## 🧪 What I'm building
+
+- **OKD on Hetzner Cloud:** automating an OKD 4 cluster bootstrap with Terraform and working around bootstrap and etcd firewall issues.
+- **TeslaMate analytics:** Grafana dashboards, a scheduler and speed-limit analysis on top of a self-hosted TeslaMate stack.
+- **Home lab:** DNS-level filtering, per-device access approval and monitoring for a small network.
+
 ## 🤝 How I work
 
 - Take ownership of problems and follow through on solutions.
